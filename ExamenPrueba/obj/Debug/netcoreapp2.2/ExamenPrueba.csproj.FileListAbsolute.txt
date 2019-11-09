@@ -1,0 +1,6 @@
+C:\Users\Grisell\Documents\Progra\ExamenPrueba\obj\Debug\netcoreapp2.2\ExamenPrueba.csprojAssemblyReference.cache
+C:\Users\Grisell\Documents\Progra\ExamenPrueba\obj\Debug\netcoreapp2.2\ExamenPrueba.csproj.CoreCompileInputs.cache
+C:\Users\Grisell\Documents\Progra\ExamenPrueba\obj\Debug\netcoreapp2.2\ExamenPrueba.RazorAssemblyInfo.cache
+C:\Users\Grisell\Documents\Progra\ExamenPrueba\obj\Debug\netcoreapp2.2\ExamenPrueba.RazorAssemblyInfo.cs
+C:\Users\Grisell\Documents\Progra\ExamenPrueba\obj\Debug\netcoreapp2.2\ExamenPrueba.AssemblyInfoInputs.cache
+C:\Users\Grisell\Documents\Progra\ExamenPrueba\obj\Debug\netcoreapp2.2\ExamenPrueba.AssemblyInfo.cs
